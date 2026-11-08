@@ -1,4 +1,5 @@
 # ArrayDeque: contoh hasil setiap method
+source https://docs.oracle.com/javase/8/docs/api/
 
 Kita pakai **deque awal yang sama untuk setiap baris**:
 
